@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rafael Araujo 
 
 
-- 🔭 Atualmente sou estagiário na are de gestão e continuidades de negócios;
+- 🔭 Atualmente sou estagiário na área de gestão e continuidades de negócios;
 - 🌱 Estudando Java
 - 📫 Contate-me no email: rafael.araujo@bandtec.com.br
 
