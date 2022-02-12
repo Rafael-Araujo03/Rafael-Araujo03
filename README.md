@@ -18,15 +18,14 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://giphy.com/gifs/tmnt-90s-80s-26gs8a7I88qdSAUx2">
-</div>
-  
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/769f8a35de635559ef5fbe13325adca7/tumblr_mgp0ndZwhW1rie4m8o5_400.gifv">
+
   ##
  
 <div> 
   <a href="https://www.instagram.com/rafinharodriguesdearaujo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-rodrigues-475a3b220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Rafael-Araujo03/Rafael-Araujo03/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/Rafael-Araujo03/Rafael-Araujo03/blob/output/github-contribution-grid-snake.svg)
  
 </div>
