@@ -18,7 +18,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="[https://64.media.tumblr.com/769f8a35de635559ef5fbe13325adca7/tumblr_mgp0ndZwhW1rie4m8o5_400.gifv](https://giphy.com/gifs/tiktok-cats-kitty-kitten-dvxq3BtNLK6KEgTryW)">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="[[https://64.media.tumblr.com/769f8a35de635559ef5fbe13325adca7/tumblr_mgp0ndZwhW1rie4m8o5_400.gifv](https://giphy.com/gifs/tiktok-cats-kitty-kitten-dvxq3BtNLK6KEgTryW)](https://media3.giphy.com/media/dvxq3BtNLK6KEgTryW/giphy.gif?cid=ecf05e470eu2twvtuw4fr31o7qkpz941wbzpuhaqauokop1p&rid=giphy.gif&ct=g)">
 
   ##
  
